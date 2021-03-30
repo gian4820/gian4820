@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gian4820
-- 👀 I’m interested in web developing
+- 👀 I’m interested in develop web sities
 - 🌱 I’m currently learning full stack course
 - 💞️ I’m looking to collaborate on any proyect
 - 📫 How to reach me gf.groppo@gmail.com
