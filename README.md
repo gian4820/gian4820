@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @gian4820
+- 👋 Hi, I’m @gianfranco_groppo
 - 👀 I’m interested in develop web sities
-- 🌱 I’m currently learning full stack course
+- 🌱 I’m currently learning full stack course on Udemy
 - 💞️ I’m looking to collaborate on any proyect
 - 📫 How to reach me gf.groppo@gmail.com
 
